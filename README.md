@@ -1,2 +1,2 @@
-# candidate-se
-Candidate-se: junte amigos e ocupe a política!
+# Candidate-se
+Junte amigos e ocupe a política!
